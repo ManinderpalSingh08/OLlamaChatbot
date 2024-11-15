@@ -45,14 +45,4 @@ This repository contains two Streamlit applications:
 
 ## Contributing
 
-Contributions are welcome! Feel free to:
-
-• *Improve the chatbot's functionality:*  Add new features or improve the user experience.
-
-• *Expand the optimization guide:*  Add more techniques or examples.
-
-• *Fix bugs:*  Report any issues you find.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Contributions are welcome!
